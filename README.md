@@ -75,7 +75,7 @@ python3 -m wplay -pull "AnyName"
 ```
 8. Schedule - Used to deliver a message at a scheduled time.
 ```shell
-python3 -m wplay -schedule "AnyName"
+python3 -m wplay -sch "AnyName"
 ```
 9. WAbout - Change your about in every second or every 30 min.
 ```shell
